@@ -1,7 +1,9 @@
 const hello = "greeting";
 
 function passGreeting(greeting) {
-  return greeting
+  return greeting;
 }
 
 passGreeting(hello);
+
+console.log("heya");
