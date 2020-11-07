@@ -1,5 +1,9 @@
-function addThreeNums(a, b, c) {
-  return a + b + c;
+function addThreeNum(a, b) {
+  return a + b;
 }
 
-addThreeNums(1, 2, 3);
+
+function addTwoNums(a, b) {
+  return a + b
+}
+addThreeNum(1, 2, 3);
