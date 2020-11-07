@@ -1,6 +1,6 @@
 const hello = "greeting";
 
-function passGreeting(greeting) {
+function passGrooting(greeting) {
   return greeting;
 }
 
