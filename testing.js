@@ -4,6 +4,6 @@ function passGrooting(greeting) {
   return greeting;
 }
 
-passGreeting(hello);
+passGrooting(hello);
 
 console.log("heya");
